@@ -1,5 +1,5 @@
 # ccDocsGraph
 
 
-See the TiddlyMap Graph in the link below:
+See the TiddlyMap Graph:
 https://agichim.github.io/ccDocsGraph/index.html
